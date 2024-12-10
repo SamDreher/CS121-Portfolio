@@ -39,10 +39,10 @@ Week Nine - https://github.com/SamDreher/CS121-Portfolio/tree/samdreher/src/week
 Week Eleven - https://github.com/SamDreher/CS121-Portfolio/tree/samdreher/src/weekEleven
   - Class Activity 21 - SystemManagement, TestCustomerInfo
     
-Week Twelve
+Week Twelve - https://github.com/SamDreher/CS121-Portfolio/tree/samdreher/src/weekTwelve
   - Class Activity 24 - FileAppend, FileRead, FileWrite
   - Lab 11 - Main, Menu, Move, Pokedex, Pokemon
     
-Week Sixteen
+Week Sixteen - https://github.com/SamDreher/CS121-Portfolio/tree/samdreher/src/weekSixteen
   - Project 3 - https://github.com/SamDreher/CS121-Portfolio/tree/samdreher/src/projectThree
   - Class Activity 35 - Sorting, SortingTest
